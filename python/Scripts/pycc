@@ -1,0 +1,3 @@
+#!D:\ChatBot\python\python.exe
+from numba.pycc import main
+main()
